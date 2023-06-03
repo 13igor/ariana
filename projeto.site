@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Fisioterapia Robson Porto</title>
+  <style>
+    /* Estilos CSS */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    nav {
+      background-color: #f2f2f2;
+      padding: 10px;
+    }
+
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+
+    nav ul li {
+      display: inline-block;
+      margin-right: 10px;
+    }
+
+    nav ul li a {
+      color: #333;
+      text-decoration: none;
+      padding: 5px;
+    }
+
+    nav ul li a:hover {
+      background-color: #333;
+      color: #fff;
+    }
+
+    section {
+      padding: 20px;
+    }
+
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Fisioterapia Robson Porto</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#">Início</a></li>
+      <li><a href="#">Sobre</a></li>
+      <li><a href="#">Serviços</a></li>
+      <li><a href="#">Contato</a></li>
+    </ul>
+  </nav>
+
+  <section>
+    <h2>Bem-vindo à nossa clínica de fisioterapia!</h2>
+    <p>Aqui oferecemos uma variedade de serviços de fisioterapia para ajudar na sua reabilitação e melhoria da qualidade de vida.</p>
+    <p>Entre em contato conosco para marcar uma consulta ou para mais informações.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2023 Clínica de Fisioterapia. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
